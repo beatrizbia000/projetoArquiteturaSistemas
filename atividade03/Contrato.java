@@ -1,3 +1,5 @@
+package atividade03;
+
 public class Contrato implements Pagamento {
     private float salarioBase;
 

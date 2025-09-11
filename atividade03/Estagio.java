@@ -1,3 +1,4 @@
+package atividade03;
 public class Estagio implements Pagamento {
     private float valorBolsa;
 

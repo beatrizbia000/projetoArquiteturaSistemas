@@ -1,4 +1,5 @@
-
+package atividade03;
+ 
 public class Clt implements Pagamento {
     private float salarioBase;
     private float beneficios; // ex.: vale-refeição, plano de saúde etc.
